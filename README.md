@@ -1,6 +1,6 @@
-# Modula SDUI SDK (KMM)
+# Modula SDUI SDK (KMP)
 
-MODULA is a powerful Server-Driven UI (SDUI) SDK built with **Kotlin Multiplatform (KMM)**. It enables you to build high-performance, native user interfaces for Android, iOS, Web, and React Native using a single JSON definition.
+MODULA is a powerful Server-Driven UI (SDUI) SDK built with **Kotlin Multiplatform (KMP)**. It enables you to build high-performance, native user interfaces for Android, iOS, Web, and React Native using a single JSON definition.
 
 ## 📱 App Previews
 
@@ -40,7 +40,7 @@ MODULA is a powerful Server-Driven UI (SDUI) SDK built with **Kotlin Multiplatfo
 
 ## 💡 KMM SDUI for Beginners
 
-This project uses **Kotlin Multiplatform Mobile (KMM)** to implement **Server-Driven UI (SDUI)** efficiently. Think of it as a "Smart Brain" with "Native Hands".
+This project uses **Kotlin Multiplatform (KMP)** to implement **Server-Driven UI (SDUI)** efficiently. Think of it as a "Smart Brain" with "Native Hands".
 
 ### The 80/20 Rule
 We follow an efficient development ratio:
