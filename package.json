@@ -1,0 +1,16 @@
+{
+  "name": "modula",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/web-sample",
+    "apps/rn-sample",
+    "packages/react-web-sdui",
+    "packages/react-native-sdui",
+    "shared/build/dist/js/developmentLibrary"
+  ],
+  "scripts": {
+    "build": "cd apps/web-sample && npm run build",
+    "start": "cd apps/web-sample && npm run start"
+  }
+}
