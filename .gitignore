@@ -3,6 +3,13 @@ node_modules/
 .pnp
 .pnp.js
 
+# Root Dot Folders
+.*
+!.gitignore
+
+# Binaries
+*.xcframework/
+
 # Testing
 coverage/
 
